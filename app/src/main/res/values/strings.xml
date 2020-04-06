@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TucsonTL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tucson TL</string>
+    <string name="nav_header_subtitle">руководство по ремонту и эксплуатации</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_introduction">Введение</string>
+    <string name="menu_chapter1">1. Действия в чрезвычайных ситуациях</string>
+    <string name="menu_chapter2">2. Ежедневные проверки и определение неисправностей. Эксплуатация автомобиля в зимний период. Поездка на СТО</string>
+    <string name="menu_chapter3">3. Инструкция по эксплуатации и обслуживанию</string>
+    <string name="menu_chapter4">4. Предостережения и правила техники безопасности при выполнении работ на автомобиле</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

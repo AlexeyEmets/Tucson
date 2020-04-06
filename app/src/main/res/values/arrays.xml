@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="chapter1_array">
+    <item>Сигнализация при остановке на дороге</item>
+    <item>Непредвиденные ситуации во время движения</item>
+    <item>Запуск двигателя от внешнего источника электроэнергии</item>
+    <item>Если двигатель перегревается</item>
+    <item>Замена колеса</item>
+    <item>Комплект для аварийного ремонта шины</item>
+    <item>Система контроля давления в шинах (TPMS)</item>
+    <item>Замена предохранителей</item>
+    <item>Буксировка</item>
+  </string-array>
+  <string-array name="chapter2_array">
+    <item>Раздел 1</item>
+    <item>Раздел 2</item>
+    <item>Раздел 3</item>
+  </string-array>
+</resources>
