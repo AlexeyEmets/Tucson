@@ -1,19 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="chapter1_array">
-    <item>Сигнализация при остановке на дороге</item>
-    <item>Непредвиденные ситуации во время движения</item>
-    <item>Запуск двигателя от внешнего источника электроэнергии</item>
-    <item>Если двигатель перегревается</item>
-    <item>Замена колеса</item>
-    <item>Комплект для аварийного ремонта шины</item>
-    <item>Система контроля давления в шинах (TPMS)</item>
-    <item>Замена предохранителей</item>
-    <item>Буксировка</item>
-  </string-array>
-  <string-array name="chapter2_array">
-    <item>Раздел 1</item>
-    <item>Раздел 2</item>
-    <item>Раздел 3</item>
-  </string-array>
+    <string-array name="chapter1_array">
+        <item>Сигнализация при остановке на дороге</item>
+        <item>Непредвиденные ситуации во время движения</item>
+        <item>Запуск двигателя от внешнего источника электроэнергии</item>
+        <item>Если двигатель перегревается</item>
+        <item>Замена колеса</item>
+        <item>Комплект для аварийного ремонта шины</item>
+        <item>Система контроля давления в шинах (TPMS)</item>
+        <item>Замена предохранителей</item>
+        <item>Буксировка</item>
+    </string-array>
+    <string-array name="chapter3_array">
+        <item>Общая информация</item>
+        <item>Эксплуатация автомобиля</item>
+        <item>Обслуживание автомобиля</item>
+        <item>Технические данные</item>
+    </string-array>
+    <string-array name="chapter5_array">
+        <item>Базовый комплект необходимых инструментов</item>
+        <item>Методы работы с измерительными приборами</item>
+    </string-array>
+    <string-array name="chapter6a_array">
+        <item>Технические данные</item>
+        <item>Обслуживание</item>
+        <item>Привод газораспределительного  механизма</item>
+        <item>Головка блока и ГРМ</item>
+        <item>ЗКривошипно-шатунный механизм</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter7_array">
+        <item>Технические данные</item>
+        <item>Бензиновый двигатель 1.6 л</item>
+        <item>Бензиновый двигатель 2.0 л</item>
+        <item>Дизельный двигатель 2.0 л</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter8_array">
+        <item>Бензиновые двигатели 1.6 л</item>
+        <item>Бензиновые двигатели 2.0л</item>
+        <item>Дизельный двигатель 2.0 л</item>
+    </string-array>
+    <string-array name="chapter9_array">
+        <item>Техническое обслуживание</item>
+        <item>Радиатор системы охлаждения</item>
+        <item>Вентилятор радиатора</item>
+        <item>Термостат</item>
+        <item>Водяной насос</item>
+    </string-array>
+    <string-array name="chapter10_array">
+        <item>Система впуска, бензиновый двигатель 1.6 л</item>
+        <item>Система впуска, бензиновый двигатель 2.0 л</item>
+        <item>Система впуска, дизельный двигатель 2.0</item>
+        <item>Система выпуска, бензиновый двигатель 1.6 л</item>
+        <item>Система выпуска, бензиновый двигатель 2.0 л</item>
+        <item>Система выпуска, дизельный двигатель 2.0 л</item>
+    </string-array>
+    <string-array name="chapter11a_array">
+        <item>Технические данные</item>
+        <item>Привод выключения сцепления</item>
+        <item>Муфта сцепления в сборе</item>
+        <item>Приложение к главе </item>
+    </string-array>
+    <string-array name="chapter11b_array">
+        <item>Технические данные</item>
+        <item>Обслуживание</item>
+        <item>Коробка передач в сборе</item>
+        <item>Управление коробкой передач</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter11c_array">
+        <item>Технические данные</item>
+        <item>Обслуживание</item>
+        <item>Автоматическая коробка передач с гидротрансформатором</item>
+        <item>Преселективная коробка передач</item>
+        <item>Управление коробкой передач</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter11d_array">
+        <item>Раздаточная коробка</item>
+        <item>Задняя главная передача</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter12_array">
+        <item>Технические данные</item>
+        <item>Передние приводные валы</item>
+        <item>Задние приводные валы</item>
+        <item>Карданный вал</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter13_array">
+        <item>Технические данные</item>
+        <item>Передняя подвеска</item>
+        <item>Задняя подвеска</item>
+        <item>Колеса и шины </item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter14_array">
+        <item>Технические данные</item>
+        <item>Вакуумный усилитель</item>
+        <item>Передние тормозные механизмы</item>
+        <item>Задние тормозные механизмы</item>
+        <item>Стояночный тормоз</item>
+        <item>Системы активной безопасности</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter15_array">
+        <item>Технические данные</item>
+        <item>Рулевое колесо и рулевая колонка</item>
+        <item>Рулевой механизм</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter16_array">
+        <item>Экстерьер</item>
+        <item>Интерьер</item>
+        <item>Остекление</item>
+        <item>Люк крыши</item>
+        <item>Двери</item>
+        <item>Сиденья</item>
+        <item>Кузовные размеры</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter17_array">
+        <item>Технические данные и описание</item>
+        <item>Система кондиционирования</item>
+        <item>Система отопления ивентиляции</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter18_array">
+        <item>Подушки безопасности</item>
+        <item>Ремни безопасности</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter19a_array">
+        <item>Технические данные</item>
+        <item>Система зажигания</item>
+        <item>Система предпускового подогрева (только дизельный)</item>
+        <item>Система пуска</item>
+        <item>Система подзарядки и аккумуляторная батарея</item>
+        <item>Приложение к главе</item>
+    </string-array>
+    <string-array name="chapter19b_array">
+        <item>Звуковой сигнал</item>
+        <item>Многофункциональный переключатель</item>
+        <item>Аудиосистема</item>
+        <item>Система умный ключ</item>
+        <item>Блок ВСМ (блок управления электрооборудованием кузова)</item>
+        <item>Щиток приборов</item>
+        <item>Оттаиватель ветрового стекла и антизапотеватель заднего стекла</item>
+        <item>Задний борт с электроприводом </item>
+        <item>Омыватели иочистители стекол</item>
+        <item>Система освещения</item>
+        <item>Иммобилайзер</item>
+    </string-array>
+    <string-array name="chapter20_array">
+        <item>Описание</item>
+        <item>Перечень злектросхем</item>
+        <item>Антиблокировочная система тормозов (АБС)</item>
+        <item>Аудиосистема</item>
+        <item>Блок управления электрооборудованием кузова (ВСМ)</item>
+        <item>Дневные ходовые огни</item>
+        <item>Иммобилайэер</item>
+        <item>Задние фонари</item>
+        <item>Индикаторы и измерительные приборы</item>
+        <item>Канал передачи данных</item>
+        <item>Мультимедийная система с навигацией</item>
+        <item>Наружные зеркала с электроприводом</item>
+        <item>Обогрев сидений</item>
+        <item>Омыватель фар</item>
+        <item>Обогрев стекол</item>
+        <item>Очистители и омыватели стекол</item>
+        <item>Преоборазователь постоянного тока в постоянный</item>
+        <item>Передние фары головного освещения</item>
+        <item>Противотуманные фары</item>
+        <item>Сиденья с электроприводом</item>
+        <item>Система бесключевого доступа и сигнализации</item>
+        <item>Система блокировки переключения передач</item>
+        <item>Система контроля скорости автомобиля</item>
+        <item>Система обнаружения объектов вне зоны видимости водителя (BSD)</item>
+        <item>Система охлаждения</item>
+        <item>Система помощи при парковке</item>
+        <item>Система пуска</item>
+        <item>Система управления АКП (G4NA NU 2.0Л MPI)</item>
+        <item>Система управления раздаточной коробкой (TCCS)</item>
+        <item>Система подзарядки</item>
+        <item>Стоп-сигналы</item>
+        <item>Фонари заднего хода</item>
+        <item>Часы и прикуриватель (розетка)</item>
+    </string-array>
 </resources>
