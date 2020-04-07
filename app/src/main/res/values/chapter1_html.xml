@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item1">
+        <html>
+            <body style="margin-top:100px; text-align:center">
+                <h1>Hello!!!</h1>
+                <img src="tucson.jpg"/>
+            </body>
+        </html>
+    </string>
+</resources>

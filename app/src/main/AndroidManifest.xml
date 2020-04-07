@@ -20,6 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".TextContentActivity" />
+        <activity android:name=".HtmlContentActivity" />
     </application>
 
 </manifest>
