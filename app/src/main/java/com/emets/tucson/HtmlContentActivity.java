@@ -16,6 +16,8 @@ public class HtmlContentActivity extends AppCompatActivity {
     private String category = "0";
     private int position = 0;
 
+    DBHelper dbHelper;
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,8 +29,9 @@ public class HtmlContentActivity extends AppCompatActivity {
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setBuiltInZoomControls(true);
         webView.setWebViewClient(new WebViewClient());
-        itemHtml = "file:///android_asset/html/ch" + category + "item" + position + ".html";
-        webView.loadUrl(itemHtml);
+        dbHelper = new DBHelper(this);
+        itemHtml = dbHelper.getPage(category, position);
+        webView.loadDataWithBaseURL("file:///android_asset/", itemHtml, "text/html", "utf-8", null);
     }
 
     private void receiveIntent(){
